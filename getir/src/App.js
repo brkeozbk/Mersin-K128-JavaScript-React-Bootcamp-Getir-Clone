@@ -17,10 +17,12 @@ function App() {
       <HeroSection />
       <Categories />
       <Favorites />
-      <Footer />
+      
       <Card />
       <MobileApp />
       <Campaigns />
+      <Footer />
+      
 
     </>
   );
