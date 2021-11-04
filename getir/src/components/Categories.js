@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react';
 import categoryData from 'api/categories.json'
 import Category from './ui/Category';
-import {Link, Router} from "react-router-dom";
+import {Link,BrowserRouter as Router, Route} from "react-router-dom";
 
 
 
@@ -20,15 +20,14 @@ export default function Header() {
                <h3 className="text-sm font-semibold mb-3"></h3>
                <div className="grid grid-cols-10">
                    {!categories.length && 'Yükleniyor'}
-                   <Router>
-                   {categories && categories.map((category, index)=>
                    
-                   <Link 
-                   key={index} to={`${category.id}`}>
-                       <Category key={index} category={category} />
+                   {categories && categories.map((category, index)=>
+              
                        
-                       </Link>)}
-                  </Router>
+              <Category key={index} category={category} />)}
+              
+           
+                  
                </div>
            </div>
         </div>

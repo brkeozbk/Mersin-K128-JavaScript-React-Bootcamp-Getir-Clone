@@ -6,6 +6,9 @@ import Footer from "components/Footer";
 import Card from "components/Card";
 import MobileApp from "components/MobileApp";
 import Campaigns from "components/Campaigns";
+import {BrowserRouter as Router, Route} from "react-router-dom";
+import { Product } from "components/Product";
+
 
 
 
@@ -15,14 +18,27 @@ function App() {
     <>
       <Header />
       <HeroSection />
-      <Categories />
       <Favorites />
+
+
+      <Router>
+        <Route  exact path="/">
+      <Categories />
+      </Route>
+      <Route  exact path="/" component = {Product}>
       
+      </Route>
+      </Router>
+
       <Card />
       <MobileApp />
       <Campaigns />
       <Footer />
       
+      {/* <Route>
+        
+      </Route> */}
+
 
     </>
   );
