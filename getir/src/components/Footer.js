@@ -1,17 +1,7 @@
 import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa'
 import {FiGlobe} from 'react-icons/fi';
-import {Link, Router, Route, } from "react-router-dom";
-import Aboutus from './Aboutus';
-import Bilgi from './Aboutus'
 
 function Footer() {
-    let bilgi=[
-{name:'Hakkımızda',id:1},
-{name:'Kariyer',id:2},
-{name:'İletişim',id:3},
-{name:'COVID-19 Duyuru',id:4},
-{name:'Sosyal Sorumluluk Projeleri',id:5},
-    ]
 	return (
 		<div className="bg-white py-4 sm:pt-10 sm:pb-6">
 			<div className="container mx-auto grid gap-y-5">
@@ -48,15 +38,23 @@ function Footer() {
 						<h3 className="text-lg text-purple-700 mb-4">
 							Getir'i keşfedin
 						</h3>
-						{/* <Router>
-                            {bilgi.map((item)=>
-                            <div className="grid gap-y-3 text-sm">
-                                <Link to={"/cat/"+item.id+"/"+item.name}>{item.name}</Link>
-                                
-                            </div>
-                                )}
-                                <Route path="/aboutus/:id/:name" ><Aboutus /></Route>
-                        </Router> */}
+						<ul className="grid gap-y-3 text-sm">
+							<li>
+								<a href="#" className="hover:underline">Hakkımızda</a>
+							</li>
+							<li>
+								<a href="#" className="hover:underline">Kariyer</a>
+							</li>
+							<li>
+								<a href="#" className="hover:underline">İletişim</a>
+							</li>
+							<li>
+								<a href="#" className="hover:underline">COVID-19 Duyuru</a>
+							</li>
+							<li>
+								<a href="#" className="hover:underline">Sosyal Sorumluluk Projeleri</a>
+							</li>
+						</ul>
 					</nav>
 					<nav>
 						<h3 className="text-lg text-purple-700 mb-4">

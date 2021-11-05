@@ -6,7 +6,7 @@ import Footer from "components/Footer";
 import Card from "components/Card";
 import MobileApp from "components/MobileApp";
 import Campaigns from "components/Campaigns";
-import {BrowserRouter as Router, Route} from "react-router-dom";
+import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import { Product } from "components/Product";
 
 
@@ -16,28 +16,41 @@ import { Product } from "components/Product";
 function App() {
   return (
     <>
-      <Header />
-      <HeroSection />
-      <Favorites />
+      
+      
+     
 
 
       <Router>
-        <Route  exact path="/">
-      <Categories />
-      </Route>
-      <Route  exact path="/" component = {Product}>
-      
-      </Route>
-      </Router>
+       <Switch>
 
-      <Card />
-      <MobileApp />
+      <Route exact path="/"> 
+
+      <Header />
+      <HeroSection />
+      <Categories /> 
+      <Favorites />
       <Campaigns />
       <Footer />
+      <Card />
+      <MobileApp />
+
+      </Route>
+
+      </Switch>
       
-      {/* <Route>
-        
-      </Route> */}
+   <Switch>
+      <Route exact path="/category/:id" component={Product}> 
+      <Header />
+      <Campaigns />
+      </Route>
+      </Switch>
+      </Router>
+      
+     
+      
+      
+    
 
 
     </>

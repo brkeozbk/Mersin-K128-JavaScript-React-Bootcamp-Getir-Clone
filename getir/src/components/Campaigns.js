@@ -19,7 +19,7 @@ function PrevBtn ({ onClick, className }) {
 	)
 }
 
-export default function Header() {
+export default function Campaigns() {
     const [banners, setBanners] = useState([]);
 
     useEffect(() => {

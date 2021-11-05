@@ -2,7 +2,7 @@ import { useState } from "react";
 import {AiFillFacebook} from 'react-icons/ai'
 import Slider from "react-slick";
 import ReactFlagsSelect from 'react-flags-select';
-export default function Header() {
+export default function HeroSection() {
     const [selected, setSelected] = useState('US');
     const phones = {
         US:'+1',

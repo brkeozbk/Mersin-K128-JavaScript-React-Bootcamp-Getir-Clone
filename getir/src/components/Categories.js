@@ -1,11 +1,10 @@
 import {useEffect, useState} from 'react';
 import categoryData from 'api/categories.json'
-import Category from './ui/Category';
-import {Link,BrowserRouter as Router, Route} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 
 
-export default function Header() {
+export default function Categories() {
   const [categories, setCategories] = useState([])
 
 
@@ -21,10 +20,16 @@ export default function Header() {
                <div className="grid grid-cols-10">
                    {!categories.length && 'Yükleniyor'}
                    
-                   {categories && categories.map((category, index)=>
+                   {categories && categories.map((category, index)=>{
               
-                       
-              <Category key={index} category={category} />)}
+                       return( 
+                           
+              <Link to = {`/category/${category.title}`} className="flex flex-col group gap-y-2 transition hover:bg-purple-50 items-center text-center p-4">
+            <img src={category.image} alt = {category.title} className="w-12 h-12 rounded border border-gray-200" />
+            <span className="text-sm font-semibold text-gray-700 whitespace-nowrap group-hover:text-brand-color">{category.title}</span>
+        </Link>
+        )
+    })}
               
            
                   
