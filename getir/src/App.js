@@ -41,8 +41,8 @@ function App() {
       
    <Switch>
       <Route exact path="/category/:id" component={Product}> 
-      <Header />
-      <Campaigns />
+  
+      
       </Route>
       </Switch>
       </Router>

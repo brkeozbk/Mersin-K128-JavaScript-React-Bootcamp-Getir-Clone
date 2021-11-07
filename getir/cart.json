@@ -1,0 +1,253 @@
+{"products":[
+    
+  {
+      "id": 1,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Yeni Ürünler",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 2,
+      "title" : "Cocacola",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "İndirimler",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/5be3f1662201b20012a3a4d7_tr_1633010312312.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 3,
+      "title" : "Su & İçecek",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Erikli Cam",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/5bb488f866a2c600121c4292_tr_1631537218158.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 4,
+      "title" : "muz",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Meyve & Sebze",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 5,
+      "title" : "Sİmit",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Fırından",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/5f48f20af8295d94f0a366f9_tr_1599847822783.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 6,
+      "title" : "Nuhun Ankara fiyonk",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Temel Gıda",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 7,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Atıştırmalık",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 8,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Dondurma",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 9,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Yiyecek",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 10,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Süt & Kahvaltı",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 11,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Fit & Form",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 12,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Kişisel Bakım",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 13,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Ev Bakım",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 14,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Ev & Yaşam",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 15,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Teknoloji",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 16,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Evcil Hayvan",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 17,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Bebek",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 18,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Cinsel Sağlık",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 19,
+      "title" : "Hertani Sızma Yağ",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Giyim",
+      "price": 109.95,
+      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg",
+      "img" : "https://cdn.getir.com/product/559fb113f462100c0046148f.jpeg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  }
+
+
+]
+}
