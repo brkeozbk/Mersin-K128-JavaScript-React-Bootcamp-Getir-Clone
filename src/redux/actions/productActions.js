@@ -13,7 +13,7 @@ export function updateProductSuccess(product) {
 }
 
 export function saveProductApi(product) {
-  return fetch("http://localhost:3000/products/" + (product.id || ""), {
+  return fetch("https://postgr-rest-api.herokuapp.com/test/s" + (product.id || ""), {
     method: product.id ? "PUT" : "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify(product)
@@ -52,7 +52,7 @@ export function handleError(error){
 
 export function getProducts(categoryId) {
   return function(dispatch) {
-    let url = "http://localhost:3000/products";
+    let url = "https://postgr-rest-api.herokuapp.com/test/s";
     if (categoryId) {
       url = url + "?categoryId=" + categoryId;
     }
