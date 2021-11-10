@@ -1,3 +1,9 @@
+#Command: 
+npm install,
+json-server --watch db.json,
+npm run watch,
+npm start.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
