@@ -1,4 +1,5 @@
-<h1>Click categories
+<h1>Click categories</br>
+to run the project locally</br>
   #Command: 
 npm install,</br>
 json-server --watch db.json,</br>
