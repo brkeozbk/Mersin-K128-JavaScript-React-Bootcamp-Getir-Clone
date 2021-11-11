@@ -1,8 +1,9 @@
-#Command: 
-npm install,
-json-server --watch db.json,
-npm run watch,
-npm start.  
+<h1>Click categories
+  #Command: 
+npm install,</br>
+json-server --watch db.json,</br>
+npm run watch,</br>
+npm start.  </h1>
 
 # Getting Started with Create React App
 
