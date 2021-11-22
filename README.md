@@ -1,4 +1,5 @@
 ![Main](https://user-images.githubusercontent.com/44134308/142872495-12892018-7cc3-481b-af68-04d9a550a5fe.png)
+![Categories](https://user-images.githubusercontent.com/44134308/142872834-a67aae32-f597-434d-91f6-47bf62b4a70e.png)
 
 
   #Command: 
