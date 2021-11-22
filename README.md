@@ -1,7 +1,8 @@
 
 ![alt text](file:///C:/Users/90530/Desktop/get1.png)
 <h1>Click categories</br>
-to run the project locally</br>
+to run the project locally</br>![get1](https://user-images.githubusercontent.com/44134308/142872445-6fec2468-6c20-4ac2-9ea3-5a7eb963bbf0.png)
+
   #Command: 
 npm install,</br>
 json-server --watch db.json,</br>
